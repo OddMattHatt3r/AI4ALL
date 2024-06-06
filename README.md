@@ -13,11 +13,25 @@ This project, developed over a semester as part of the Apply AI group at AI4All,
 
 ## Technologies Used
 
-- **Python**: Core programming language for developing the application.
-- **TensorFlow/Keras**: Utilized for building and training the CNN models.
-- **Librosa**: Used for audio processing and generating spectrograms.
-- **NumPy and Pandas**: Employed for data manipulation and analysis.
-- **Matplotlib**: Utilized for visualizing the spectrograms and model performance metrics.
+**Python**: Core programming language for developing the application.
+**PyTorch**: Utilized for building and training the CNN models.
+**Torchaudio**: Used for audio processing and generating spectrograms.
+**NumPy and Pandas**: Employed for data manipulation and analysis.
+**Matplotlib**: Utilized for visualizing the spectrograms and model performance metrics.
+
+## Current Status
+
+The project is currently unfinished, with the following components under development:
+
+1. **Dataset Preparation**: Additional data collection and preprocessing, including handling truncated and corrupt files.
+2. **Model Training**: Further refinement of the CNN model, including hyperparameter tuning and extended training epochs.
+3. **Evaluation Metrics**: Implementation of more comprehensive evaluation metrics to assess model performance.
+4. **User Interface**: Development of a user-friendly interface for easy interaction with the model.
+5. **Deployment**: Setting up the model for deployment in a production environment, including potential integration with web services or mobile applications.
+
+## Contributing
+
+We welcome contributions from the community. Please fork the repository and submit a pull request with detailed information about the changes. For significant modifications, open an issue to discuss your ideas before implementation.
 
 ## Acknowledgments
 
